@@ -1,0 +1,37 @@
+
+#sect_form {
+
+  position: absolute;
+  height: 800px;
+  width: 50%;
+  top: 150px;
+  left: 200px;
+  border-radius: 20px;
+}
+legend {
+  font-size: large;
+
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.largeur{
+  width: 30%;
+}
+fieldset{
+  border-radius: 80px;
+  text-align: center;
+  
+  
+color:hsl(0, 0%, 100%);
+background-color: rgba(206, 178, 21, 0.308);
+}
+form{
+  line-height: 40px;
+}
+label{
+  display: inline-block;
+}
+#bouton{
+  position:relative;
+  top: 55px;;
+  height: 40px ;
+}
